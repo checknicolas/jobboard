@@ -10,7 +10,7 @@ The job board of Ruby Belgium.
 * [Front-End Developer at DataCamp, 2016 September 14](20160914_datacamp_front_end_developer.md)
 * [Lead Web Developer at BlueSquare, 2016 August 11](20160811_bluesquare_lead_dev_brussels.md)
 * ~~Full stack/Ruby on Rails CTO at <removed>, 2016 July 29~~
-* [Full stack/Ruby on Rails developer at Rialto, 2016 July 20](20160720_RIALTO_fullstackdev.md)
+* ~~Full stack/Ruby on Rails developer at Rialto, 2016 July 20 <removed>, 2016 Dec 30~~
 * [Senior/Meriod Ruby on Rails developer at Seal, 2016 Jan 16](20160116_seal_senior_medior_ruby_rails_developer.md)
 * ~~Ruby on Rails developer at Prospect.io <removed>, 2016 Jan 18~~
 * [Rails/React.js developer at PieSync.com, 2016 Jan 28](20160128_piesync_rails_react_developer.md)
